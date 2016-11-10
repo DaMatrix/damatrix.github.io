@@ -1,7 +1,3 @@
-<html>
-<head>
-<title>DaPorkchop!</title>
-<link type="text/css" rel="stylesheet" href="http://www.daporkchop.tk/stylesheet.css"/>
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
@@ -22,10 +18,3 @@
 <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
 <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
-</head>
-<body>
-<iframe src="toembed/header.html" scrolling="no" style="border: 0; width: 100%; height: 50px;"></iframe>
-<h1>Placeholder</h1>
-<iframe src="toembed/footerads.html" scrolling="no" style="border: 0; width: 738px; height: 360px;"></iframe>
-</body>
-</html>
