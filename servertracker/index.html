@@ -8,9 +8,19 @@ var a = true;
 function myFunction() {
 if (a) {
     a = false;
+    var result = null,
+        tmp = [];
+    var items = location.search.substr(1).split("&");
+    for (var index = 0; index < items.length; index++) {
+        tmp = items[index].split("=");
+        if (tmp[0] === "serveraddress") result = decodeURIComponent(tmp[1]);
+    }
+    if (result == null){
+     document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?serveraddress=' + result;
+    }
     //params = loc.split('?')[1];
     //document.getElementById("paragraph").innerHTML = 'http://home.daporkchop.tk:8080/?' + params;
-    document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?serveraddress=9b9t.com';
+    
 }}
 </script>
   <p id="paragraph"></p>
