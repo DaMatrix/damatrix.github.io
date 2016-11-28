@@ -3,16 +3,16 @@
   <script>
    function sendParams() {
    var loc = window.location.toString(),
-    params = loc.split('?')[1],
-    iframe = document.getElementById('myIframe');
-
-    iframe.src = 'http://home.daporkchop.tk:8080/?' + params;
+    params = loc.split('?')[1];
+    document.getElementById("paragraph").innerHTML = 'http://home.daporkchop.tk:8080/?' + params;
+    document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?' + params;
    }
   </script>
   <title>PorkServerTracker</title>
  </head>
  <body>
   <div id="aa" onload="sendParams()"></div>
+  <p id="paragraph"></p>
   <iframe src="http://home.daporkchop.tk:8080/" width="100%" height="100%" id="myIframe"></iframe>
  </body>
 </html>
