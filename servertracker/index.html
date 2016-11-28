@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PorkServerTracker</title>
+  <title>ServerTracker</title>
  </head>
  <body>
   <script>
@@ -16,7 +16,7 @@
     if (a) {
      a = false;
      if (getUrlVars()["serveraddress"] == null || getUrlVars()["serveraddress"] === null || getUrlVars()["serveraddress"] == "" || getUrlVars()["serveraddress"] === "")	{
-      
+      document.getElementById("pageembed").src = 'http://home.daporkchop.tk:8080/?serveraddress=2b2t.org';
      } else {
       document.getElementById("pageembed").src = 'http://home.daporkchop.tk:8080/?serveraddress=' + getUrlVars()["serveraddress"];
      }
