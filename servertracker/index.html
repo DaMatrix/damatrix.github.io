@@ -15,7 +15,7 @@ if (a) {
         tmp = items[index].split("=");
         if (tmp[0] === "serveraddress") result = decodeURIComponent(tmp[1]);
     }
-    if (result == null){
+    if (result === null){
      document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?serveraddress=' + result;
     } else {
      document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?serveraddress=9b9t.com';
