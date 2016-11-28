@@ -4,20 +4,28 @@
  </head>
  <body>
   <script>
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
 var a = true;
 function myFunction() {
 if (a) {
     a = false;
-    var result = null,
-        tmp = [];
-    var items = location.search.substr(1).split("&");
-    for (var index = 0; index < items.length; index++) {
-        tmp = items[index].split("=");
-        if (tmp[0] === "serveraddress") result = decodeURIComponent(tmp[1]);
-    }
-    if (result === null){
-     document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?serveraddress=' + result;
-    } //else {
+    //var result = null,
+    //    tmp = [];
+    //var items = location.search.substr(1).split("&");
+    //for (var index = 0; index < items.length; index++) {
+    //    tmp = items[index].split("=");
+    //    if (tmp[0] === "serveraddress") result = decodeURIComponent(tmp[1]);
+    //}
+    //if (result === null){
+     document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?serveraddress=' + getUrlVars()["serveraddress"];;
+     //document.getElementById("paragraph").src = 'http://home.daporkchop.tk:8080/?serveraddress=' + '<?=$_POST['serveraddress']?>';
+    //} else {
    //  document.getElementById("myIframe").src = 'http://home.daporkchop.tk:8080/?serveraddress=9b9t.com';
   //  }
     //params = loc.split('?')[1];
@@ -25,7 +33,7 @@ if (a) {
     
 }}
 </script>
-  <p id="paragraph"></p>
   <iframe onload="myFunction()" src="http://home.daporkchop.tk:8080/" width="100%" height="100%" id="myIframe"></iframe>
+<p onload="myFunction()" id="paragraph"></p>
  </body>
 </html>
