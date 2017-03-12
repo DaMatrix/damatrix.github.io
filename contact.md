@@ -16,6 +16,7 @@ Here you can find many different ways to contact me. (if for any reason you shou
 
 ## Discord
 [My Discord server](http://discord.gg/BY3Q69x)
+
 My tag: **DaPorkchop_#2459**
 
 ## StackExchange
