@@ -2,6 +2,7 @@
 layout: default
 ---
 
-#Projects
+# Projects
+
 TODO: put some stuff here lul
 

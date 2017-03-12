@@ -1,27 +1,43 @@
 ---
 layout: default
 ---
-#Contact
+# Contact
+
 Here you can find many different ways to contact me. (if for any reason you should want to contact somebody as boring as myself :P)
 
-##YouTube
+
+## YouTube
+
 [Here](https://www.youtube.com/channel/UCXvSjAgVHgNPJ9skUff1bRg)
 
-##Google+
+
+## Google+
+
 [Here](https://plus.google.com/u/0/118239262670396008815)
 
-##Twitter
+
+## Twitter
+
 [Here](https://twitter.com/DaPorkchop_)
 
-##Discord
+
+## Discord
+
 [My Discord server](http://discord.gg/BY3Q69x)
+
 My tag: **DaPorkchop_#2459**
 
-##StackExchange
+
+## StackExchange
+
 [Here](http://stackexchange.com/users/5537437/daporkchop)
 
-##GitHub
+
+## GitHub
+
 [Here](https://github.com/DaMatrix)
 
-##Newgrounds
+
+## Newgrounds
+
 [Here](http://daporkchop.newgrounds.com/)
