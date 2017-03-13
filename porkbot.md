@@ -8,8 +8,11 @@ A Discord bot
 [Invite](https://discordapp.com/oauth2/authorize?client_id=287894637165936640&scope=bot&permissions=8)
 
 ## Commands
+
 | Command name | Description                                                          | Usage                               | Example                                              | Note                                     |
 |--------------|----------------------------------------------------------------------|-------------------------------------|------------------------------------------------------|------------------------------------------|
+| help         | Sends a link to this page                                            | ..help                              | ..help                                               |                                          |
+| invite       | Sends the bot invite link                                            | ..invite                            | ..invite                                             |                                          |
 | say          | Makes the bot send a message                                         | ..say <message you want to say>     | ..say Hello World!                                   |                                          |
 | mcavatar     | Shows the fact of a Minecraft skin                                   | ..mcavatar <username>               | ..mcavatar Notch                                     | Also works with UUID instead of username |
 | mchead       | Shows the head of a Minecraft skin                                   | ..mchead <username>                 | ..mchead Notch                                       | Also works with UUID instead of username |
