@@ -7,6 +7,8 @@ A Minecraft-focused Discord bot
 
 [Invite](https://discordapp.com/oauth2/authorize?client_id=287894637165936640&scope=bot&permissions=0)
 
+[Source code](https://github.com/DaMatrix/PorkBot)
+
 ## Commands
 
 | Command name | Description                                                            | Usage                                     | Example                                                                | Note                                                          |
@@ -26,4 +28,4 @@ A Minecraft-focused Discord bot
 | peping       | Pings a Minecraft: Pocket Edition server and gets some info about it   | `..peping <ip>` OR `..peping <ip:port>`   | `..peping play.2p2e.tk` OR `..peping play.2p2e.tk:19132`               |                                                               |
 | pequery      | Queries a Minecraft: Pocket Edition server and gets more info about it | `..pequery <ip>` OR `..pequery <ip:port>` | `..pequery play.2p2e.tk` OR `..pequery play.2p2e.tk:19132`             | Only works if `enable-query` is `true` in `server.properties` |
 | mcstatus     | Gets the status of Mojang servers                                      | `..mcstatus`                              | `..mcstatus`                                                           |                                                               |
-| mcuuid       | Gets the UUID associated with a Minecraft username                     | `..mcuuid <player name>`                  | `..mcuuid Notch`                                                       |                                                               |tch`                                                       |                                                               |
+| mcuuid       | Gets the UUID associated with a Minecraft username                     | `..mcuuid <player name>`                  | `..mcuuid Notch`                                                       |                                                               |
