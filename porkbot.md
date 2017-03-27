@@ -5,7 +5,7 @@ layout: default
 # PorkBot
 A Minecraft-focused Discord bot
 
-[Invite](https://discordapp.com/oauth2/authorize?client_id=287894637165936640&scope=bot&permissions=8)
+[Invite](https://discordapp.com/oauth2/authorize?client_id=287894637165936640&scope=bot&permissions=0)
 
 ## Commands
 
