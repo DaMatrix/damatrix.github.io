@@ -15,7 +15,7 @@ Here you can find many different ways to contact me. (if for any reason you shou
 [Here](https://twitter.com/DaPorkchop_)
 
 ## Discord
-[My Discord server](http://discord.gg/BY3Q69x)
+[My Discord server](http://google.com) <-- Disabled, as the DaPorkchop_Pack isn't ready yet. Use the [2p2e](http://2p2e.tk) Discord in the mean time!
 
 My tag: **DaPorkchop_#2459**
 
