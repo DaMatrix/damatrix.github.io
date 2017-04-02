@@ -11,6 +11,28 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <title>{{ site.title | default: site.github.repository_name }}</title>
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000",
+          "text": "#0f0"
+        },
+        "button": {
+          "background": "#0f0"
+        }
+      },
+      "showLink": false,
+      "theme": "edgeless",
+      "content": {
+        "message": "I don't actually use cookies, but adding this makes the site look more professional :P",
+        "dismiss": "STFU"
+      }
+    })});
+    </script>
   </head>
   <body>
     <div id="container">
