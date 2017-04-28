@@ -8,7 +8,7 @@ This is a web overview of 2b2t. It's still under contruction, and a lot of thing
 
 The overview is run by a bot user (PorkMaintenance) and some stuff with websockets.
 
-<iframe src="http://www.daporkchop.net/Pork2b2tBot/index.html" scrolling='no' style="border: 0; width: 100%; height: 100%;" onmouseover="document.body.style.overflow='hidden';" onmouseout="document.body.style.overflow='auto'; overflow: hidden;"></iframe>
+<iframe src="http://www.daporkchop.net/Pork2b2tBot/index.html" scrolling="no" style="border: 0; width: 100%; height: 1024px;"></iframe>
 
 ## Known bugs
 
