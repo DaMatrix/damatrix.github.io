@@ -14,7 +14,8 @@ The overview is run by a bot user (PorkMaintenance) and some stuff with websocke
 
 - Not all players show up in tab list
 - Ping shows incorrectly
-- Occasionally the bot gets kicked for moving incorrectly. This should be fixed when I get around to moving the bot to a safe place.
+- Occasionally the bot gets kicked for moving incorrectly, this should be fixed when I get around to moving the bot to a safe place
+- Death messages involving an item show as raw JSON
 
 ## Unimplemented (planned) features
 
