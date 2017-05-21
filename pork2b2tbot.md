@@ -63,6 +63,7 @@ I don't feel any further explaination is required for this.
 ## Unimplemented (planned) features
 
 - Graphs! (player online times, when players are most active, etc.)
+- Desktop notifications when a DM is recieved
 
 ## Credits
 
