@@ -10,7 +10,7 @@ Please report any bugs or feature requests at [here](https://github.com/DaMatrix
 
 The overview is run by a bot user (2pork2bot) and some stuff with websockets.
 
-<iframe src="http://www.daporkchop.net/Pork2b2tBot/index.html" scrolling="no" style="border: 0; width: 100%;" id="chatframe"></iframe>
+<iframe src="http://www.daporkchop.net/Pork2b2tBot/index.html?address=repo.daporkchop.net&port=8888" scrolling="no" style="border: 0; width: 100%;" id="chatframe"></iframe>
 
 ## Help
 
