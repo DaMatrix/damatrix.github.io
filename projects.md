@@ -16,6 +16,12 @@ A hacked Minecraft client that works as a Forge mod. It doesn't have many hacks,
 
 A better map art generator for Minecraft. (WIP)
 
+## PorkAI
+
+Currently in planning, nowhere near release
+
+A simple-to-use API for making self-learning neural networks.
+
 ## [Pork2b2tBot](https://github.com/DaMatrix/Pork2b2tBot)
 
 A Minecraft bot and proxy, designed for bypassing the queue on [2b2t](http://2b2t.org).
