@@ -21,7 +21,12 @@ My tag: **DaPorkchop_#2459** (You probably shouldn't use this, as I don't accept
 
 [Here](https://www.youtube.com/channel/UCXvSjAgVHgNPJ9skUff1bRg)
 
+## Reddit
+
+[Here](https://www.reddit.com/user/DaPorkchop_/)
+
 ## Google+
+
 [Here](https://plus.google.com/u/0/118239262670396008815)
 
 ## Twitter
