@@ -15,7 +15,7 @@ My tag: **DaPorkchop_#2459** (You probably shouldn't use this, as I don't accept
 
 ## Email
 
-[joey.rabil@gmail.com](mailto:joey.rabil@gmail.com)
+[fredbobson7@gmail.com](mailto:fredbobson7@gmail.com)
 
 ## YouTube
 
