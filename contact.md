@@ -11,7 +11,7 @@ Here you can find many different ways to contact me.  Discord is the most direct
 
 [Valkyrien Warfare server](https://discord.gg/rG3QNDV)
 
-My tag: **DaPorkchop_#2459** (You probably shouldn't use this, as I don't accept friend requests from people unless I know them)
+My tag: **DaPorkchop_#0001**
 
 ## Email
 
