@@ -8,6 +8,8 @@ layout: default
 
 Programmed, hosted and mantained entirely by me
 
-**2p2e**: DEAD
+also a dead meme, gonna shut it down soon
 
-Got popular as the first anarchy server for MCPE that was actually anarchy and not just factions, I shut it down after it started losing popularity and the world was going corrupt.
+**2p2e**: [play.2p2e.net](http://2p2e.net)
+
+The only not-shit anarchy server for MCPE.
