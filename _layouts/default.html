@@ -1,105 +1,49 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <meta name="viewport" content="width=device-width">
     <link rel="shortcut icon" href="http://www.daporkchop.net/favicon.ico" type="image/x-icon">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
-    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-    <script>
-    window.addEventListener("load", function(){
-    window.cookieconsent.initialise({
-      "palette": {
-        "popup": {
-          "background": "#000",
-          "text": "#0f0"
-        },
-        "button": {
-          "background": "#0f0"
-        }
-      },
-      "showLink": false,
-      "theme": "edgeless",
-      "content": {
-        "message": "I don't actually use cookies, but adding this makes the site look more professional :P",
-        "dismiss": "STFU"
-      }
-    })});
-    </script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-101163171-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-	<meta property="og:title" content="DaPorkchop_"/>
-	<meta property="og:type" content="website"/>
-	<meta property="og:url" content="http://daporkchop.net/"/>
-	<meta property="og:image" content="http://www.daporkchop.net/toembed/DaPorkchop_64x64.png"/>
-	<meta property="og:description" content="DaPorkchop_. I make stuff. That does... stuff."/>
-	<meta property="og:locale" content="en_US"/>
-	<meta property="og:site_name" content="DaPorkchop_"/>
+    <title>{{ site.title }}</title>
   </head>
   <body>
-    <div id="container">
-      <div class="inner">
-        <header>
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-          <ul style="padding: 10px; background: rgba(0,0,0,0.75);">
-            <li style="display: inline; padding: 0px 10px 0px 10px;">
-              <a href="/" style="color: #c9c9c9; font-weight: bold; text-decoration: none !important;">Home</a>
-            </li>
-            <li style="display: inline; padding: 0px 10px 0px 10px;">
-              <a href="/porkbot" style="color: #c9c9c9; font-weight: bold; text-decoration: none !important;">Bot</a>
-            </li>
-			<li style="display: inline; padding: 0px 10px 0px 10px;">
-              <a href="/pork2b2tbot" style="color: #c9c9c9; font-weight: bold; text-decoration: none !important;">2b2tBot</a>
-            </li>
-            <li style="display: inline; padding: 0px 10px 0px 10px;">
-              <a href="/servers" style="color: #c9c9c9; font-weight: bold; text-decoration: none !important;">Servers</a>
-            </li>
-            <li style="display: inline; padding: 0px 10px 0px 10px;">
-              <a href="/projects" style="color: #c9c9c9; font-weight: bold; text-decoration: none !important;">Projects</a>
-            </li>
-            <li style="display: inline; padding: 0px 10px 0px 10px;">
-              <a href="/contact" style="color: #c9c9c9; font-weight: bold; text-decoration: none !important;">Contact</a>
-            </li>
-          </ul>
-        </header>
-        <hr>
-        <section id="main_content">
-          {{ content }}
-        </section>
-      </div>
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+        <br>
+        <strong>
+          <a href="http://porklib.daporkchop.net/">PorkLib</a><br>
+          <a href="/porkbot">PorkBot</a><br>
+          <a href="/pork2b2tbot">Pork2b2tBot</a><br>
+          <a href="/projects">Projects</a><br>
+          <a href="/servers">Servers</a><br>
+          <a href="/contact">Contact</a>
+        </strong>
+      </header>
+      <section>
+
+      {{ content }}
+
+        <iframe data-aa='763390' src='//ad.a-ads.com/763390?size=728x90' scrolling='no' style='width:728px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+      </section>
+      <footer>
+        <a href="/donate">Donate</a>
+      </footer>
     </div>
-    <div id="ads" style="margin-right: auto; margin-left: auto; text-align: center">
-       <iframe data-aa='763390' src='//ad.a-ads.com/763390?size=728x90' scrolling='no' style='width:728px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
-       <br>
-       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-       <script>
-         (adsbygoogle = window.adsbygoogle || []).push({
-           google_ad_client: "ca-pub-6115812229015429",
-           enable_page_level_ads: true
-         });
-       </script>
-       <br>
-	    <p><a href="https://discord.gg/wKGhdaH">The Alt Pump</a></p>
-      <p>Donate to me:</p>
-	    <p><a href=https://bitcoin.org">Bitcoin</a>: 16c6SxeTDfFEM16mumNav8QtFCeRHvf5S8<br>
-<a href="https://getmonero.org/">Monero</a>: 49SJQnE7h4Xgn7D3TU87RVWmiSugFZEME8sKGkVcfG8c9PYZUAZAnaw8opuv1KZRQ6Udm5zyxT3n3FwKdGSddaBaUYdN971<br>
-<a href="https://etherium.org">Ethereum</a>: 0x173B8f24cFcCdD79A19692dD6E3F045219d23ba7<br>
-<a href="http://www.pepsi.team/bepiscoin">bepiscoin</a>: gSwRgG4emzxSkiZnYYaEM4CazQaZoDLN4z<br>
-<a href="https://litecoin.org">Litecoin</a>: Lcqgk7wttkPGnNeo3fwksXSuaDbXsgRLgb<br>
-<a href="http://dogecoin.com">Dogecoin</a>: DTHE3gW6h3NGEGz7AVP17SwwsGp6AyWSPS<br>
-<a href="https://www.zcashcommunity.com">Zcash</a>: t1Py88oKLi4hSPbF5uP58qVe4btzeaXiWTZ</p>
-    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
   </body>
 </html>

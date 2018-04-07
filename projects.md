@@ -6,6 +6,10 @@ layout: default
 
 This is a list of projects I've made, along with an indicator as to how much work I'm putting into them currently.
 
+## [PorkLib](http://porklib.daporkchop.net) **ACTIVE**
+
+A number of Java libraries for making things that I use on a regular basis less of a pain.
+
 ## [Valkyrien Warfare](https://github.com/ValkyrienWarfare/Valkyrien-Warfare-Revamped)  **ON HOLD**
 
 A Minecraft mod made by [thebest108 (aka BigBastard)](https://github.com/Best108) and I. Inspired by Archimedes' Ships, but far better.  Features: Walking on and interacting with moving ships, nearly full mod compatibility, and realistic physics!  By far my favorite project, although I haven't found much time to work on it as of late.
