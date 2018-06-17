@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# Pork2b2tBot
+#### [Back to 2b2t](/2b2t)
+
+## Pork2b2tBot
 
 This is a web overview of 2b2t. It's still under contruction, and a lot of things are broken or unimplemented. You can view the source code [here](https://github.com/DaMatrix/Pork2b2tBot).
 
 Please report any bugs or feature requests at [here](https://github.com/DaMatrix/Pork2b2tBot/issues). Thanks!
 
-The overview is run by a bot user (2pork2bot) and some stuff with websockets.
+# The web overview can be seen [here](https://2pork2bot.daporkchop.net)
 
-<iframe src="http://www.daporkchop.net/Pork2b2tBot/index.html?address=repo.daporkchop.net&port=8888" scrolling="no" style="border: 0; width: 100%;" id="chatframe"></iframe>
-
-## Help
+### Help
 
 Here's a few simple things to rembember:
 - All actions, ingame or on the site, have a 5 second cooldown.
@@ -33,13 +33,13 @@ This would send "hello there!" to torogadude, assuming he's logged in on the sit
 
 On the site (here), you can do as follows:
 
-### Registration
+#### Registration
 
 1. Enter your IGN in the first text box, and your password you want to use in the second one.
 2. Press "Log in". You'll be sent a command, that you need to send ingame on 2b2t. Keep in mind that this confirmation command expires after 10 minutes or the bot restarting, but you can always run step 1 again :P
 3. After running the command 2pork2bot will send you back here. Refresh the page and use the same IGN and password, you'll get a new interface.
 
-### Sending chat from the site
+#### Sending chat from the site
 
 After registering and logging in, you'll be able to send messages.
 
@@ -48,7 +48,7 @@ After registering and logging in, you'll be able to send messages.
 3. Press "Send"
 4. The user will get your message ingame! (if they're logged in to 2b2t, that is :P)
 
-### Changing your password
+#### Changing your password
 
 If you forget your password to log into the site, you can join 2b2t and issue the following command:
 
@@ -56,22 +56,20 @@ If you forget your password to log into the site, you can join 2b2t and issue th
 
 I don't feel any further explaination is required for this.
 
-## Known bugs
+### Known bugs
 
 - Ping in tab list shows incorrectly
 
-## Unimplemented (planned) features
+### Unimplemented (planned) features
 
 - Graphs! (player online times, when players are most active, etc.)
 - Desktop notifications when a DM is recieved
 
-## Credits
+### Credits
 
-- torogadude for the name
+- torogadude for the name (2pork2bot)
 - Steveice10 for making PacketLib and MCProtocolLib, this wouldn't be possible without you :D
 - The guy who made [this](http://stackoverflow.com/a/30313558), for colored text
 - The many people on StackExchange who helped me learn JavaScript for this
 - [This](https://github.com/Caligatio/jsSHA), for client-side password hashing
 
-
-<script type="application/javascript">function resizeIFrameToFitContent( iFrame ) { iFrame.height = iFrame.contentWindow.document.body.scrollHeight; }  window.setInterval(function(){ resizeIFrameToFitContent(document.getElementById("chatframe")) }, 50);</script>
