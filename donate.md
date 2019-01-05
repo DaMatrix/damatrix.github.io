@@ -6,10 +6,13 @@ Want to support me and my projects? Consider donating crypto to one of these add
 
 
 
-[Bitcoin](https://bitcoin.org/): `1DdiztjeSuKbVmrm2rd7ekpR44FuwJ64yC`  
-[Bitcoin (SegWit)](https://bitcoin.org/): `31ooSsqNraguMcqoTqi69A6i1agq9gchhi`  
-[Bitcoin (Bech32)](https://bitcoin.org/): `bc1qfzwx4upn88eh0rad9d20epdy7wk3cz5hsecwnk`  
+[Bitcoin (SegWit)](https://bitcoin.org/): `bc1qfq0v0p22s35ekd9h5vcdmsjkmerdjqc2x46m5m`  
+[Bitcoin (Compat)](https://bitcoin.org/): `32sgFru2f6ayyXeLu3TctghiSzaMNbjcRi`  
+[Bitcoin (Legacy)](https://bitcoin.org/): `1zfWxsqUKBW3kUxLHNZzX8SyaWYMTghyN`  
+[Bitcoin Cash](https://tinyurl.com/2fcpre6): lol  
 [Monero](https://getmonero.org/): `47wT4wRBYMVhpeL3jfyvhk3usuSpVHhnYdHhsvZiC5uGa1eEwdTaKZgPMtkj2BAVKs81Nz75LM5kHecy3taws67JEyMxaxr`  
-[Etherium](https://etherium.org/): `0x2C033d2485828b990923Dd625387448a54AAcB35`  
-[Litecoin](https://litecoin.org/): `LW2JFy8HSyyqTcecvboEyxHRoFF4VfnFTb`  
-[Dogecoin](http://dogecoin.com/): `DNPgEZ6BdVu5gJvMam3NSywhi1u6DS3m9v`
+[Ethereum](https://etherium.org/): `0x44ad62e029ce2668f639da801e339826112fbb65`  
+[Litecoin (SegWit)](https://litecoin.org/): `ltc1qkexf0mjczykl2g76j3c6azyqxr6lpz90y2p8az`  
+[Litecoin (Compat)](https://litecoin.org/): `MEPYdNg89H42GTucnGWf262e7eDKwtpWUf`  
+[Litecoin (Legacy)](https://litecoin.org/): `LbN4dxcpfyyFMuNYU67JgbahZqeJi7cnUk`  
+[Dogecoin](http://dogecoin.com/): `DGD41dFn8UVjipBGmCWR3mjG6B8i8TtJ51`  
