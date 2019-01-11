@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-theme-tactile"
+  s.name          = "jekyll-theme-minimal"
   s.version       = "0.0.3"
   s.license       = "CC0-1.0"
   s.authors       = ["Jason Long", "GitHub, Inc."]
