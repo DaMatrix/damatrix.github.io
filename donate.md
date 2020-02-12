@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Want to support me and my projects? Consider donating crypto to one of these addresses. Thanks!
+Want to support me and my projects? Consider donating via crypto (preferred) or PayPal. Thanks!
 
 
 <p id="addresses">Loading...</p>
@@ -19,3 +19,4 @@ Want to support me and my projects? Consider donating crypto to one of these add
         document.getElementById("addresses").innerHTML = html;
     });
 </script>
+

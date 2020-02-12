@@ -4,12 +4,15 @@ layout: default
 
 # Servers
 
-**Team Pepsi Network**: mc.pepsi.team
+**Team Pepsi Network**: [mc.pepsi.team](https://pepsi.team)
 
-Programmed, hosted and mantained entirely by me
+Programmed, hosted and mantained entirely by me.
 
-also a dead meme, gonna shut it down soon
+Currently offline due to hardware failure.
 
-**2p2e**: [play.2p2e.net](http://2p2e.net)
+**2p2e**: [play.2p2e.net](https://2p2e.net)
 
 The only not-shit anarchy server for MCPE.
+
+Currently offline due to hardware failure, and the fact that NukkitX 2.0 isn't quite stable yet.
+
