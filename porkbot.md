@@ -58,15 +58,39 @@ A Discord bot
 
 # Music<a name="music"></a>
 
-## Temporarily disabled
-
 | Command name | Description                                                            | Usage                                          | Example                                                                | Note                                                          |
 |--------------|------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------|
-| play         | Adds a song to the playlist.                                           | `..play <URL>` or `..play [site] <search>`     | `..play diggy diggy hole` or `..play SoundCloud dboyd brightsided`     | `SoundCloud` may be abbreviated to `sc`                       |
-| queue        | Shows the songs in the playlist.                                       | `..queue`                                      | `..queue`                                                              |                                                               |
-| shuffle      | Shuffles the playlist                                                  | `..shuffle`                                    | `..shuffle`                                                            |                                                               |
+| play         | Adds a track to the queue by link                                      | `..play <link>`                                | `..play https://youtu.be/ytWz0qVvBZ0`                                  | May be a playlist. [Supported links](#music-supported-links)  |
+| play         | Adds a track to the queue using YouTube search                         | `..play <search terms>`                        | `..play diggy diggy hole`                                              |                                                               |
+| play         | Adds a track to the queue using the given platform's search            | `..play <platform> <search terms>`             | `..play soundcloud dboyd lazy dayze`                                   | Case-insensitive. [Supported platforms & shortcuts](#music-supported-platforms) |
+| playlist     | Adds all the tracks from a given plain-text playlist                   | `..playlist <url>`                             | `..playlist https://pastebin.com/raw/EjJ1JkF8`                         | [Small example](https://pastebin.com/EjJ1JkF8), [Big example](https://cloud.daporkchop.net/random/music/httplist.txt) |
+| queue        | Shows the songs in the queue                                           | `..queue [page]`                               | `..queue` OR `..queue 3`                                               |                                                               |
+| shuffle      | Makes the queue ignore the order of tracks in the queue                | `..shuffle`                                    | `..shuffle`                                                            | Queue will remain shuffled until disabled with `..ordered`    |
+| ordered      | Makes the queue be played back in order (default)                      | `..ordered`                                    | `..ordered`                                                            |                                                               |
 | skip         | Skips the currently playing song                                       | `..skip`                                       | `..skip`                                                               |                                                               |
 | stop         | Clears the playlist and stops playing                                  | `..stop`                                       | `..stop`                                                               |                                                               |
+
+
+### Supported link types<a name="music-supported-links"></a>
+
+- YouTube videos
+- SoundCloud tracks
+- BandCamp tracks
+- Vimeo videos
+- Twitch streams
+- Beam tracks
+- Raw media files: `.mp3`, `.ogg`, `.flac`, `.wav`, `.mp4`, `.mkv`
+
+- YouTube playlists
+- SoundCloud playlists
+- BandCamp albums
+- PPLST playlists ([example](https://cloud.daporkchop.net/random/music/list.pplst))
+
+
+### Supported search platforms (& shortcuts)<a name="music-supported-platforms"></a>
+
+- YouTube (shortcuts: `yt`)
+- SoundCloud (shortcuts: `sc`, `soundc`)
 
 
 # Misc<a name="misc"></a>
