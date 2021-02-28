@@ -5,20 +5,16 @@ layout: default
 # PorkBot
 A Discord bot
 
-<a href="https://discordapp.com/oauth2/authorize?client_id=287894637165936640&scope=bot&permissions=37022784" target="_blank">Invite</a>
-
+<a href="https://discordapp.com/oauth2/authorize?client_id=287894637165936640&scope=bot&permissions=37022784" target="_blank">Invite</a>  
 <a href="https://github.com/DaMatrix/PorkBot" target="_blank">Source code</a>
 
 ## Commands
 
 #### Categories
 
-[General](#general)
-
-[Minecraft](#minecraft)
-
-[Music](#music)
-
+[General](#general)  
+[Minecraft](#minecraft)  
+[Music](#music)  
 [Misc](#misc)
 
 # General<a name="general"></a>

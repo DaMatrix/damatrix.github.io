@@ -2,47 +2,22 @@
 layout: default
 ---
 # Contact
-Here you can find many different ways to contact me.  Discord is the most direct way to contact me, as I'm much less active on other sources.
 
-## Discord
+This is just a list of some of my accounts around the internet. If you're trying to get in contact with me, Discord is your best bet.
 
-[![Discord](https://img.shields.io/discord/428813657816956929.svg)](https://discord.gg/FrBHHCk) [PorkHub v2.0](https://discord.gg/FrBHHCk)
+### Discord: **DaPorkchop_#0001**
 
-[![Discord](https://img.shields.io/discord/356205695093178389.svg)](https://discord.gg/DPbMFQe) [Team Pepsi](https://discord.gg/DPbMFQe)
+[![Discord](https://img.shields.io/discord/428813657816956929.svg)](https://discord.gg/FrBHHCk) *PorkHub v2.0*  
+[![Discord](https://img.shields.io/discord/356205695093178389.svg)](https://discord.gg/DPbMFQe) *Team Pepsi Public Discord*
 
-[![Discord](https://img.shields.io/discord/244934352092397568.svg)](https://discord.gg/rG3QNDV) [Valkyrien Warfare](https://discord.gg/rG3QNDV)
+### Reddit: [/u/DaPorkchop_](https://old.reddit.com/user/DaPorkchop_/)
 
-My tag: **DaPorkchop_#0001**
+### Email: [fredbobson7@gmail.com](mailto:fredbobson7@gmail.com)
 
-## GitHub
+### GitHub: [DaMatrix](https://github.com/DaMatrix)
 
-[Here](https://github.com/DaMatrix)
+### YouTube: [DaPorkchop_](https://www.youtube.com/channel/UCXvSjAgVHgNPJ9skUff1bRg)
 
-## Reddit
+### Twitter: [@DaPorkchop_](https://twitter.com/DaPorkchop_)
 
-[Here](https://www.reddit.com/user/DaPorkchop_/)
-
-## Email
-
-[fredbobson7@gmail.com](mailto:fredbobson7@gmail.com)
-
-## YouTube
-
-[Here](https://www.youtube.com/channel/UCXvSjAgVHgNPJ9skUff1bRg)
-
-## Google+
-
-[Here](https://plus.google.com/u/0/118239262670396008815)
-
-## Twitter
-
-[Here](https://twitter.com/DaPorkchop_)
-
-## StackExchange
-
-[Here](http://stackexchange.com/users/5537437/daporkchop)
-
-## Newgrounds
-
-[Here](http://daporkchop.newgrounds.com/)
-
+### StackExchange: [DaPorkchop_](http://stackexchange.com/users/5537437/daporkchop)
