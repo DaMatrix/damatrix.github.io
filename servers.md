@@ -8,8 +8,4 @@ layout: default
 
 Programmed, hosted and mantained entirely by me.
 
-Slowly being brought back online after total hardware failure last year.
-
-**2p2e**: [play.2p2e.net](https://2p2e.net)
-
-The only not-shit anarchy server for MCPE.
+Currently offline due to my server closet suffering total data loss last year.
