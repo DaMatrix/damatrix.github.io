@@ -4,6 +4,7 @@ layout: default
 
 Want to support me and my projects? Consider donating via crypto (preferred) or PayPal. Thanks!
 
+[![patreon badge](https://img.shields.io/badge/dynamic/json?color=e64413&label=Patreon&query=data.attributes.pledge_sum&prefix=$&suffix=/month&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F727078)](https://www.patreon.com/DaPorkchop_)
 
 <div id="addresses">Loading...</div>
 
