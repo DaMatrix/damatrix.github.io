@@ -7,8 +7,7 @@ This is just a list of some of my accounts around the internet. If you're trying
 
 ### Discord: **DaPorkchop_#0001**
 
-[![Discord](https://img.shields.io/discord/428813657816956929.svg)](https://discord.gg/FrBHHCk) *PorkHub v2.0*  
-[![Discord](https://img.shields.io/discord/356205695093178389.svg)](https://discord.gg/DPbMFQe) *Team Pepsi Public Discord*
+[![Discord](https://img.shields.io/discord/428813657816956929?color=7289DA&label=discord)](https://discord.gg/FrBHHCk)
 
 ### Reddit: [/u/DaPorkchop_](https://old.reddit.com/user/DaPorkchop_/)
 
